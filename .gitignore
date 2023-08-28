@@ -1,0 +1,15 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment folders (for Python)
+venv/
+env/
+Scripts/
+Lib/
+pyvenv.cfg
+
+
+# Ignore IDE-specific files (for VS Code)
+.vscode/
+
+# Ignore a specific file
