@@ -27,6 +27,7 @@ Before you begin, ensure you have Python 3.10.0 and pip installed.
 2. Navigate to the project folder:
   
 3. Install the required dependencies:
+   - Make sure to download the WebDriver for Selenium and place it in the project directory.
    - `$ pip install -r requirements.txt`
 
 ## Contributing
