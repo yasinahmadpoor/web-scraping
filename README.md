@@ -1,6 +1,6 @@
 # AwesomeToDoList
 
-A command-line tool for managing your to-do lists efficiently.
+Python scripts for scraping "[Divar](https://divar.ir/)" and "[Network for Gold and Currency Information](https://www.tgju.org/)" websites.
 
 ## Table of Contents
 - [About](#about)
@@ -12,33 +12,23 @@ A command-line tool for managing your to-do lists efficiently.
 
 ## About
 
-AwesomeToDoList is a lightweight and user-friendly command-line tool designed to help you manage your to-do lists with ease. It allows you to quickly add, remove, and view tasks, helping you stay organized and focused.
+This repo contain two python scripts for get inforamtion of second-hand car from "Divar" and financial market data from "Network for Gold and Currency Information"
 
 ## Features
 
-- Add tasks with descriptions and due dates
-- Mark tasks as completed
-- List all tasks or filter by status or due date
-- Remove tasks individually or clear the entire list
-- Simple and intuitive command-line interface
+- Get information about second-hand cars from Divar along with their attributes.
+- Obtain financial market data, such as cryptocurrency prices, currency prices (in Toman), gold, oil, etc.
 
 ## Installation
 
-Before you begin, ensure you have Python 3.x and pip installed.
+Before you begin, ensure you have Python 3.10.0 and pip installed.
 
 1. Clone this repository:
 
 2. Navigate to the project folder:
   
 3. Install the required dependencies:
-
-
-## Usage
-
-- Add a new task:
-
-- List all tasks:
-
+   `$ pip install -r requirements.txt`
 
 ## Contributing
 
