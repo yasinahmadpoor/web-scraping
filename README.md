@@ -11,7 +11,7 @@ Python scripts for scraping "[Divar](https://divar.ir/)" and "[Network for Gold 
 
 ## About
 
-This repo contain two python scripts for get inforamtion of second-hand car from "Divar" and financial market data from "Network for Gold and Currency Information"
+This repository contains two Python scripts for obtaining information about second-hand cars from 'Divar' and financial market data from the 'Network for Gold and Currency Information'.
 
 ## Features
 
