@@ -1,4 +1,4 @@
-# AwesomeToDoList
+# Wep Scraping
 
 Python scripts for scraping "[Divar](https://divar.ir/)" and "[Network for Gold and Currency Information](https://www.tgju.org/)" websites.
 
@@ -6,7 +6,6 @@ Python scripts for scraping "[Divar](https://divar.ir/)" and "[Network for Gold 
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,7 +27,7 @@ Before you begin, ensure you have Python 3.10.0 and pip installed.
 2. Navigate to the project folder:
   
 3. Install the required dependencies:
-   `$ pip install -r requirements.txt`
+   - `$ pip install -r requirements.txt`
 
 ## Contributing
 
